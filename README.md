@@ -1,5 +1,8 @@
-### Hi there 👋
 
+<p> 💻 &nbsp Major is Computer Engineering </p>
+<p> 🥳 &nbsp From Tekirdağ/Turkey </p>
+<p> 👻 &nbsp Senior year at PAU </p>
+<p> 📫 How to reach me: <a href="mailto:ismailcileli@icloud.com">ismailcileli@icloud.com</a></p>
 <!--
 **ismlcll/ismlcll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
