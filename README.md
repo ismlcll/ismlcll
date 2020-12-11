@@ -1,6 +1,5 @@
 
 <p> 💻 &nbsp Major is Computer Engineering </p>
-<p> 🥳 &nbsp From Tekirdağ/Turkey </p>
 <p> 👻 &nbsp Senior year at PAU </p>
 <p> 📫 How to reach me: <a href="mailto:ismailcileli@icloud.com">ismailcileli@icloud.com</a></p>
 <p> 🌱 I’m currently learning HTML5, CSS3, PHP, JS</p>
